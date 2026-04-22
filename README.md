@@ -65,8 +65,3 @@ Created users across all departments with proper naming conventions and login cr
 - How to perform common L1 helpdesk tasks: user creation, password resets, account disabling
 - How security groups work for role-based access management
 - The importance of organised OU structures in real enterprise environments
-
-## Next Steps
-- Set up Microsoft 365 admin center (free developer tenant)
-- Configure Group Policy Objects (GPOs)
-- Connect to Azure Active Directory (Entra ID)
